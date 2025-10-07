@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Venkatalakshmi
 
-<!--
-**Lakshmip2011/Lakshmip2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SDET | Manual & Automation Testing | Front-End Developer | Passionate about **building robust applications** and ensuring software quality.  
+Currently focused on **Automation Testing** (Selenium, TestNG, Cucumber, JMeter), **API Testing**, and **Front-End Development** using HTML, CSS, and Bootstrap.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages:** Java, JavaScript, HTML, CSS, SQL  
+**Testing Tools:** Selenium WebDriver, TestNG, Cucumber, JMeter, REST Assured  
+**Frameworks:** Page Object Model (POM), BDD with Cucumber, TestNG  
+**Databases:** MySQL  
+**Others:** Git/GitHub, Agile Methodologies, VS Code, Responsive Design
+
+---
+
+## Projects
+
+- [OrangeHRM Automation](https://github.com/Lakshmip2011/orangehrm-automation) – Automated testing framework using Selenium WebDriver, TestNG, and Maven. Includes POM architecture and test cases for login, employee lifecycle, and logout.  
+
+- [Library API Testing](https://github.com/Lakshmip2011/LibraryAPITesting) – Fully automated API testing framework using Java, TestNG, and REST Assured. Covers CRUD operations for library system (Users, Books, Borrowing).  
+
+- [E-Commercial](https://github.com/Lakshmip2011/E-Commercial) – Responsive front-end e-commerce website built with HTML, CSS, and Bootstrap. Showcases products, key highlights, and client testimonials with smooth navigation.  
+
+---
+
+## Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/vlakshmip)  
+vlakshmipandiri2105@gmail.com  
+
+---
+
+Always eager to collaborate on **Web Development, Front-End Design, and Automation Testing** projects.
