@@ -7,11 +7,12 @@ Currently focused on **Automation Testing** (Selenium, TestNG, Cucumber, JMeter)
 
 ## Tech Stack
 
-**Languages:** Java, JavaScript, HTML, CSS, SQL  
+**Languages:** Java, JavaScript, HTML, CSS, SQL
 **Testing Tools:** Selenium WebDriver, TestNG, Cucumber, REST Assured  
 **Frameworks:** Page Object Model (POM), BDD with Cucumber, TestNG  
 **Databases:** MySQL  
 **Others:** Git/GitHub, Agile Methodologies, VS Code
+
 ---
 
 ## Projects
